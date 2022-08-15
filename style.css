@@ -1,0 +1,27 @@
+.heading
+{
+    font-size: 25px;
+}
+
+.note
+{
+    color:blue ;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    bottom: 0;
+    font-size: 15px;
+    color:black;
+    background-color: aliceblue;
+    font-weight: bold;
+}
+
+canvas
+{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px palegreen;
+}
